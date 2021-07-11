@@ -1,10 +1,8 @@
 # Screenshots 
 
-![](img/lista-tareas.png)
+![](img/lista-tareass.png)
 
-![](img/lista-tareas-completadas.png)
-
-![](img/lista-tareas-update.png)
+![](img/lista-tareas-actualizar.png)
 
 
 # Getting Started with Create React App
